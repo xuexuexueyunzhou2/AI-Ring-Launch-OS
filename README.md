@@ -9,14 +9,14 @@
 
 ## 🌍 Overview
 
-> A unified **【Global Commercialization System】** for launching AI Ring within 45 days.
+> A unified **Global Commercialization System** for launching AI Ring within 45 days.
 
-This document is an **end-to-end Go-To-Market Operating System (GTM OS)** covering:
+This document is an end-to-end Go-To-Market execution system covering:
 
-- Product Readiness  (wpm)
-- Supply Chain Execution  (wpm)
-- China Go-To-Market Strategy
-- Oversea Go-To-Market Strategy
+- Product Readiness (wpm)
+- Supply Chain Execution (wpm)
+- China Go-To-Market Execution
+- Overseas Go-To-Market Execution
 - Demand Generation → Paid Growth Engine
 - Risk & Execution Dependencies
 
@@ -29,11 +29,11 @@ This document is an **end-to-end Go-To-Market Operating System (GTM OS)** coveri
                              │
         ┌────────────────────┴────────────────────┐
         │                                         │
- Product Readiness                          GTM Readiness
+ Product Readiness                          GTM Execution Layer
         │                                         │
    ┌──────────────┐                     ┌──────────────┐
    │              │                     │              │
-Branding   Supply Chain           China GTM        Oversea GTM
+Branding   Supply Chain           China GTM        Overseas GTM
                                               │
                            ┌──────────────────┴──────────────────┐
                            │                                     │
@@ -41,8 +41,8 @@ Branding   Supply Chain           China GTM        Oversea GTM
                            │                                     │
         ┌──────────────────┼──────────────────┐      ┌───────────┼────────────┐
         │                  │                  │      │           │            │
- Creator Ecosystem   Tech Media        AI Search   RTB/livestreaming      shopify/ SEO/ PR/ Community
- (Seeding:KOL / KOC)  & PR            Visibility   (TikTok / Meta / Google)
+ Creator Ecosystem   Tech Media        AI Search   RTB / Ads   Shopify / SEO / Amazon / PR
+ (KOL / KOC)         & PR              Visibility   (TikTok / Meta / Google)
         │                  │                  │
         └──────────────────┴──────────────────────────────────────────────────┘
                            │
@@ -51,17 +51,15 @@ Branding   Supply Chain           China GTM        Oversea GTM
                  Review → Retention → Scale
 ```
 
-##### ( notes: PR:36氪/极克公园-"最近深圳有一家AI创业公司做了一个情侣AI戒指。"； Community：类似Reddit等）
 ---
-
 
 ## 🗓️ 45-Day Execution Timeline (Start: 2026-08-15)
 
-> Product readiness is completed before Day 0 (not included in timeline)
+> Product readiness is completed before Day 0 (not included in execution timeline)
 
 ---
 
-## 🇨🇳 China GTM (Day 0–45)
+## 🇨🇳 China GTM (Day 0–45 Execution Plan)
 
 ```mermaid
 gantt
@@ -86,16 +84,59 @@ gantt
 
 ---
 
-## 🌍 Oversea GTM (Day 0–45 parallel)
+## 🇨🇳 China GTM Execution Details
+
+### 1️⃣ Seeding (Demand Injection)
+
+- Deliver 30 KOL/KOC samples (TikTok / Xiaohongshu)
+- Use 蒲公英 + direct outreach to secure creators
+- Provide content scripts + key selling points
+- Ensure 10–15 short videos posted within 10 days
+- Focus:情侣互动 / AI情感 / wearable novelty
+
+---
+
+### 2️⃣ Commerce Setup
+
+- Launch pre-sale pages (XHS / Douyin / Shopify)
+- Set product links for all creators
+- Confirm pricing + refund policy (50 RMB / deposit logic)
+- Prepare livestream selling scripts (reference DJI-style launch)
+
+---
+
+### 3️⃣ Community & UGC Flywheel
+
+- Create WeChat / Xiaohongshu community entry funnel
+- Incentivize UGC posting (coupon / refund / rebate mechanism)
+- Require hashtag usage + content repost loop
+- Goal: convert buyers → content creators
+
+---
+
+### 4️⃣ AI Search Visibility (GEO / AEO)
+
+- Optimize product description for AI assistants:
+  - 豆包 / Kimi / 元宝 / 通义千问 / ChatGPT
+- Seed Q&A content in:
+  - Zhihu / Xiaohongshu / forums
+- Positioning keywords:
+  - “情侣AI戒指”
+  - “AI wearable gift”
+  - “emotion tracking wearable”
+
+---
+
+## 🌍 Overseas GTM (Day 0–45 Execution Plan)
 
 ```mermaid
 gantt
-    title Global GTM Execution (45 Days)
+    title Overseas GTM Execution (45 Days)
     dateFormat  YYYY-MM-DD
 
     section Seeding
     TikTok Micro KOL Seeding            :b1, 2026-08-15, 10d
-    Product Video Creation Loop          :b2, 2026-08-15, 10d
+    Product Video Testing Loop           :b2, 2026-08-15, 10d
 
     section Commerce Setup
     Amazon Listing + SEO Setup           :b3, 2026-08-15, 10d
@@ -108,74 +149,60 @@ gantt
     section Scaling
     Retargeting + Optimization           :b7, after b6, 10d
 ```
+
 ---
 
-## 🚀 Go-To-Market System
+## 🌍 Overseas GTM Execution Details
 
-### 🇨🇳 China GTM (Demand Creation)
+### ⚡ Phase 1 — Short-term Validation (0–45 days)
 
-**Demand Generation System**
+**Goal: Validate market fit + messaging + CAC efficiency**
 
-- KOL / KOC seeding (via 30 free samples for KOL/KOC with purchase link 蒲公英等平台 + 定向达人合作)
-- Redbook lifestyle content seeding/ livestreaming (eg. DJI）
-- Douyin short video viral loop strategy
-- Community & UGC flywheel（用户内容 + 社交裂变）
-- AI Search Visibility (GEO / AEO)
-  - 豆包 / Kimi / 元宝 / 通义千问 / ChatGPT 等AI平台推荐优化
+- Competitor benchmarking (pricing / positioning / viral hooks)
+- TikTok / Instagram / YouTube Shorts content testing
+- Influencer seeding:
+  - tech reviewers
+  - wearable creators
+  -情侣礼物类博主
+- Reddit / Product Hunt feedback loop
+- Kickstarter / Indiegogo test (optional validation channel)
+- Meta / TikTok small-budget ad testing (creative A/B test)
 
-Flow:
+---
+
+### 🌱 Phase 2 — Long-term Growth System
+
+**Goal: Build scalable global revenue engine**
+
+- Shopify independent store (core conversion hub)
+- SEO system (review / comparison / blog content)
+- Amazon long-term ranking + PPC system
+- PR system (Tech media exposure)
+- Community system (Discord / Reddit / Instagram)
+- Affiliate marketing system (creator-based distribution)
+- Retention system (email + remarketing + app later stage)
+
+---
+
+## 🔁 Core System Flow
 
 ```text
-Content Seeding → Social Proof → Interest Capture → Pre-sale Conversion → UGC Flywheel
-```
-
----
-
-## 🌍 Oversea GTM (Revenue Engine)
-
-### Hybrid Growth System
-
----
-
-### 1️⃣ Short-term：Selling Point Confirmation (短期用内容/KOL/广告验证卖点)
-
-- Competitor research: finding AI ring's mkt position 
-- TikTok/ Instagram/ YouTube Shorts 短视频种草
-- Influencer seeding (科技类、情侣礼物类、wearable类KOL测评)
-- Reddit/ Product Hunt/ Kickstarter & Indiegogo 做早期反馈及众筹
-- Meta/ Tiktok 小预算做广告测试
-
----
-
-### 2️⃣ Long-term：独立站运营
-
-- Set up Shopify funnel system after short-term test （搭建shopify独立站运营）
-- 做SEO、品牌内容、测评文章、联盟营销、Amazon、PR、用户社区和app留存等
-
----
-
-
----
-
-### 🔁 System Flow (Core Logic)
-
-```text
-Competitor finding & research
-      ↓
-Short Video Seeding
-      ↓
-KOL testing vedio
-      ↓
-RTB investment
-      ↓
-Landing Page / Shopify
-      ↓
-SEO/ Branding/ Amazon/ PR/ Community
-      ↓
-Reviews
-      ↓
-Retargeting
-      ↓
+Competitor Research & Positioning
+        ↓
+Short Video Seeding (TikTok / IG / Shorts)
+        ↓
+KOL Testing Content
+        ↓
+Paid Ads (RTB / Meta / TikTok)
+        ↓
+Landing Page / Shopify Funnel
+        ↓
+Amazon / SEO / PR / Community
+        ↓
+Reviews & Social Proof
+        ↓
+Retargeting Loop
+        ↓
 Scale
 ```
 
@@ -184,24 +211,24 @@ Scale
 ## ⚠️ Key Risks & Dependencies
 
 > [!WARNING]
-> Domestic pre-sale / crowdfunding compliance must be validated before launch.
+> Domestic pre-sale compliance must be confirmed before execution.
 
 > [!IMPORTANT]
-> Overseas warehouse selection directly impacts delivery speed, CAC efficiency, and return cost structure.
+> Overseas warehouse selection impacts CAC, delivery time, and return cost structure.
 
 > [!TIP]
-> Demand generation (KOL + seeding) should start 10–14 days before paid media activation.
+> Seeding phase must start at least 10–14 days before paid media scaling.
 
 ---
 
 ## 📦 Critical Open Questions
 
 - Pre-sale model: crowdfunding vs direct pre-order?
-- Amazon timing: Day-1 launch vs post-TikTok validation?
-- TikTok Shop vs Shopify prioritization?
-- Overseas warehouse: US / EU / HK hub strategy?
-- Budget allocation: earned vs paid split?
-- Reverse logistics & return handling strategy?
+- Amazon launch timing: Day 1 vs post-validation?
+- TikTok Shop vs Shopify priority?
+- Warehouse strategy: US / EU / HK hub?
+- Budget split: earned vs paid?
+- Return / reverse logistics handling model?
 
 ---
 
@@ -217,8 +244,6 @@ Overall System Readiness
 
 ## 🎯 Objective
 
-Deliver a globally scalable **AI hardware commercialization system** that connects:
+Deliver a globally scalable AI hardware commercialization system that connects:
 
 **Product → Demand → Conversion → Retention → Scale**
-
-within 45 days.
