@@ -13,7 +13,7 @@
 
 This document is an end-to-end Go-To-Market execution system covering:
 
-- Product Readiness (wpm)
+- Product Readiness      (wpm)
 - Supply Chain Execution (wpm)
 - China Go-To-Market Execution
 - Overseas Go-To-Market Execution
