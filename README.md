@@ -232,13 +232,30 @@ Scale
 
 ---
 
-## 📊 Execution Readiness
+## 📊 Execution Readiness (Launch Status)
 
-Overall System Readiness
+> Current state of system readiness for global launch
 
-██████████░░░░░░░░░░
+---
 
-~40%
+### 🟡 Overall Status: PRE-LAUNCH (Not ready for scale)
+
+---
+
+### Breakdown by system:
+
+| System | Status | Notes |
+|--------|--------|------|
+| Product Readiness | 🟡 In progress | Hardware / finalization pending |
+| Supply Chain | 🟡 In progress | Factory + logistics alignment ongoing |
+| China GTM | 🔵 Planned | Execution starts Day 0 |
+| Global GTM | 🔵 Planned | Dependent on product readiness |
+| Demand Generation | 🔵 Designed | Not yet activated |
+| Paid Growth | 🔵 Not started | Waiting for validation |
+
+---
+
+- Current phase = **pre-launch orchestration**
 
 ---
 
