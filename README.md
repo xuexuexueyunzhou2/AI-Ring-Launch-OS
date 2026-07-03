@@ -117,7 +117,7 @@ gantt
 ### 4️⃣ AI Search Visibility (GEO / AEO)
 
 - Optimize product description for AI assistants:
-  - 豆包 / Kimi / 元宝 / 通义千问 / ChatGPT
+  - 豆包 / Kimi / 元宝 / 千问 / ChatGPT
 - Seed Q&A content in:
   - Zhihu / Xiaohongshu / forums
 - Positioning keywords:
@@ -163,7 +163,7 @@ gantt
 - Influencer seeding:
   - tech reviewers
   - wearable creators
-  -情侣礼物类博主
+  - 情侣礼物类博主
 - Reddit / Product Hunt feedback loop
 - Kickstarter / Indiegogo test (optional validation channel)
 - Meta / TikTok small-budget ad testing (creative A/B test)
